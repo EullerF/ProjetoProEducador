@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+*.db
+*.db-journal
+.DS_Store
+backend_logs.txt
+backend_logs_utf8.txt
+checklist_out.txt
+test.ts
